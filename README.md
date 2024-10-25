@@ -33,3 +33,11 @@ System Architecture
 ![377596962-ab8c1183-2ba2-4028-a82d-684977c31fc9](https://github.com/user-attachments/assets/0924135d-1379-401e-834a-9c2710414956)
 
 
+## Student's Dashboard
+
+![377597247-6bab3de4-35b5-4b20-bae5-c11732d80544](https://github.com/user-attachments/assets/cc4a7a79-993e-4acf-9d34-7c14e9e68a28)
+
+
+
+![377597329-55b4cd0f-b198-45df-bf35-a5a4dc00e7e8](https://github.com/user-attachments/assets/7f57dbe1-5eb0-4720-b044-dc324be8226a)
+
