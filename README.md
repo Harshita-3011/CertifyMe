@@ -25,9 +25,11 @@ System Architecture
 
 ## Teacher's Dashboard
 ![377596683-7a9a2f5a-3ce2-4199-bfa1-61ad4843b140](https://github.com/user-attachments/assets/7bdcb176-0aa7-4c5f-840e-8138b1f5be14)
+
+![377596871-6e13d222-5e67-4650-b242-bc70c99ecb62](https://github.com/user-attachments/assets/1141f429-adfd-42f9-988a-36bf1c03a1b8)
+
 ![377597068-e78d312a-73ab-4e8e-90e0-8135533f569e](https://github.com/user-attachments/assets/db6fc01f-2008-4e76-8cfb-b5aebe392fce)
 
 ![377596962-ab8c1183-2ba2-4028-a82d-684977c31fc9](https://github.com/user-attachments/assets/0924135d-1379-401e-834a-9c2710414956)
 
-![377596871-6e13d222-5e67-4650-b242-bc70c99ecb62](https://github.com/user-attachments/assets/1141f429-adfd-42f9-988a-36bf1c03a1b8)
 
